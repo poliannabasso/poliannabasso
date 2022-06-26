@@ -15,6 +15,8 @@
   <img align="center" alt="Poli-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Poli-html" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Poli-css" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <br><br>
+  <img align="right" alt="Poli-gif" height="150" style="border-radius:50px;" src="https://tenor.com/bmSKc.gif">
 </div>
   
 ##

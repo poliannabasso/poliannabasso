@@ -31,8 +31,5 @@
   <a href="https://www.instagram.com/bpoli__" target="_blank"><img height="30" width="90" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.com/users/Fainne#3908" target="_blank"><img height="30" width="90" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:poliannabassolg@gmail.com"><img height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/polianna-basso-71882311b" target="_blank"><img height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/poliannabasso/poliannabasso/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://www.linkedin.com/in/polianna-basso-71882311b" target="_blank"><img height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

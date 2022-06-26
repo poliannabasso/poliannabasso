@@ -1,4 +1,4 @@
-### Ooi!
+### Ooi! Eu sou a Poli ☕
 
 <!--
 - 🔭 I’m currently working on ...

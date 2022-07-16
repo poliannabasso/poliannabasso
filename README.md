@@ -3,8 +3,8 @@
 -->
 <div align="center">
   <a href="https://github.com/poliannabasso/">
-  <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=poliannabasso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliannabasso&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=poliannabasso&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliannabasso&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
 </div>  
   

@@ -2,9 +2,7 @@
 <!--
 -->
 <div align="center">
-  <a href="https://github.com/poliannabasso/">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliannabasso&layout=compact&langs_count=7&theme=cobalt"/>
-  </a>
+  
   <img alt="Poli-gif" height="200" src="https://user-images.githubusercontent.com/36345555/175835682-f1838430-ca40-46f5-a7d4-31a000b5d3bf.gif">
   
 </div>
